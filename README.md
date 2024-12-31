@@ -2,7 +2,7 @@
 
 ### 🔧 Languages Used:
 <div>
-  <img src="https://t3.ftcdn.net/jpg/05/27/97/74/360_F_527977463_hcQAYoMqDE17JUYji9J9bVIV6CWMsFuG.png" alt="HTML Logo" width="50px">
+  <img src="https://t3.ftcdn.net/jpg/05/27/97/74/360_F_527977463_hcQAYoMqDE17JUYji9J9bVIV6CWMsFuG.png" alt="HTML Logo" width="150px">
 </div>
 
 ---
