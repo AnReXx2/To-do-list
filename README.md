@@ -2,8 +2,7 @@
 
 ### 🔧 Languages Used:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript Logo" width="50">
+  <img src="https://t3.ftcdn.net/jpg/05/27/97/74/360_F_527977463_hcQAYoMqDE17JUYji9J9bVIV6CWMsFuG.png" alt="HTML Logo">
 </div>
 
 ---
