@@ -14,12 +14,14 @@ This is a simple **To-do List** web application built using **HTML**, **CSS**, a
 ---
 
 ### 🎨 Preview:
-![To-do List Preview](https://example.com/your-image-link.png)
+![image](https://github.com/user-attachments/assets/6a18d447-fd81-4b9c-8173-138f47b35a6d)
+![image](https://github.com/user-attachments/assets/0d6a429e-10b5-44ca-9b8d-bd1ccecabbf5)
+
 
 ---
 
 ### 🌐 Live Demo:
-🔗 [To-do List Live Preview](https://your-live-demo-link.com/)
+🔗 [To-do List Live Preview](https://to-do-list-anrexx.netlify.app/)
 
 ---
 
